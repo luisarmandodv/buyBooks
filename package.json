@@ -36,12 +36,7 @@
   "jest": {
     "preset": "react-native"
   },
-  "eslintConfig": {
-    "rules": {
-      "quotes": [
-        "error",
-        "single"
-      ]
-    }
+  "prettier": {
+    "singleQuote": true
   }
 }
